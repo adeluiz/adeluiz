@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adeluiz on Twitter, @adeluiz@mastodon.gamedev.place on Mastodon
 - 👀 I’m interested in too many things, including gamedev
-- 🌱 I’m currently learning Godot 4
-- 💞️ I’m looking to collaborate on helping others using Godot 4
+- 🌱 I’m currently learning raylib
+- 💞️ I’m looking to collaborate on helping others using raylib
 
 <!---
 adeluiz/adeluiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
